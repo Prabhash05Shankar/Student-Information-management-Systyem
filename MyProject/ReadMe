@@ -1,0 +1,3 @@
+This project was aimed to developing an offline Student Management System. This entire project has been developed keeping the view of Security and well manage data
+storage, in the mind. It was created to store all the information about Students, Teachers, Subjects, Marks and students’ queries. As a security proposed software,
+admin can only able to create an account after entering security key, as admin is the main authority who can do addition, deletion and modification if required.
